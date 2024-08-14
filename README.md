@@ -9,7 +9,11 @@ We have considered the iid and non-iid variation of MNIST (60K train and 10K tes
 <img width="600" alt="Screenshot 2024-08-14 at 14 01 30" src="https://github.com/user-attachments/assets/e712cafe-a201-4cf2-8b62-197d2049e233">
 
 Repos:
+
 DP_fedavg: contain the code for differentially private fedavg and fedProx for iid and non-iid MNIST. 
+
 Fedavg models: contain the code for fedavg and fedProx for iid and non-iid MNIST.
+
 IP_fedavg: contain the code for integrally private fedavg and fedProx for iid and non-iidMNIST.
+
 device_records.p: In each repository, this file gives the number of records on each device for non-iid data.
